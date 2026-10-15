@@ -1,11 +1,24 @@
-# CMPUT 301: Lab 6 Participation Exercise
+\## Student Details
 
-## Student Details
-- **Full Name:Khadijah Abubakari Mejida
-- **CCID: mejidaab
+\- \*\*Full Name:\*\* Khadijah Abubakari Mejida
 
-## References and Resources
-List any resources used here, or simply put N/A if not applicable.
+\- \*\*CCID:\*\* mejidaab
 
-## Verbal Collaboration
-List students' names and CCIDs here, or simply put N/A if not applicable. 
+
+
+\## References and Resources
+
+\- CMPUT 301 Lab 6 slides and walkthrough
+
+\- KDoc: https://kotlinlang.org/docs/kotlin-doc.html
+
+\- Dokka: https://kotlinlang.org/docs/dokka-introduction.html
+
+\- JUnit 4: https://junit.org/junit4/
+
+
+
+\## Verbal Collaboration
+
+N/A
+
